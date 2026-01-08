@@ -1,0 +1,19 @@
+---
+title: "FirstQuarto"
+author: "Sam Larralde"
+format: gfm
+editor: visual
+date: 2026-01-07
+---
+
+## 
+
+#Header!
+
+##Other Header!
+
+**yea** *yea*
+
+```{r}
+10+20
+```
